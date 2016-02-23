@@ -1,0 +1,28 @@
+{
+  "name": "weather-app",
+  "version": "0.0.0",
+  "authors": [
+    ""
+  ],
+  "description": "A simple, lightweight jQuery plugin used to display the current weather of any city using the free OpenWeatherMap API.",
+  "main": "build/openWeather.min.js",
+  "keywords": [
+    "open",
+    "weather",
+    "temperature",
+    "wind",
+    "speed",
+    "humidity",
+    "sunset",
+    "sunrise",
+    "city"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
